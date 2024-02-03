@@ -13,7 +13,7 @@ about:
   home: https://github.com/gottingen/llvm-project
   license: Apache License 2
   license_family: APACHE
-  license_file: LICENSE
+  license_file: LICENSE.TXT
   summary: A library for c++ based libraries and rpc libraries
 
 source:
